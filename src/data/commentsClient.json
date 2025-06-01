@@ -1,0 +1,219 @@
+[
+    {
+      "name": "Giulia Verdi",
+      "username": "@giuliaverdi",
+      "body": "Il Piano Copple Day ha reso la nostra giornata romantica indimenticabile.",
+      "planType": "normale",
+      "piano": "Piano Copple Day",
+      "img": "https://avatar.vercel.sh/giuliaverdi"
+    },
+    {
+      "name": "Luca Neri",
+      "username": "@lucaneri",
+      "body": "Il Piano Single Relax è l’ideale per staccare dalla routine e rilassarsi.",
+      "planType": "premium",
+      "piano": "Piano Single Relax",
+      "img": "https://avatar.vercel.sh/lucaneri"
+    },
+    {
+      "name": "Anna Russo",
+      "username": "@annarusso",
+      "body": "Consiglio il Piano Pet Friendly a tutti gli amanti degli animali.",
+      "planType": "normale",
+      "piano": "Piano Pet Friendly",
+      "img": "https://avatar.vercel.sh/annarusso"
+    },
+    {
+      "name": "Matteo Ferrari",
+      "username": "@matteoferrari",
+      "body": "Il Piano Family Day è perfetto per le famiglie con bambini piccoli.",
+      "planType": "premium",
+      "piano": "Piano Family Day",
+      "img": "https://avatar.vercel.sh/matteoferrari"
+    },
+    {
+      "name": "Chiara Conti",
+      "username": "@chiaraconti",
+      "body": "Il Piano Copple Day offre un’atmosfera romantica unica.",
+      "planType": "normale",
+      "piano": "Piano Copple Day",
+      "img": "https://avatar.vercel.sh/chiaraconti"
+    },
+    {
+      "name": "Davide Moretti",
+      "username": "@davidemoretti",
+      "body": "Il Piano Single Relax è perfetto per chi vuole prendersi una pausa da tutto.",
+      "planType": "premium",
+      "piano": "Piano Single Relax",
+      "img": "https://avatar.vercel.sh/davidemoretti"
+    },
+    {
+      "name": "Elena Gallo",
+      "username": "@elenagallo",
+      "body": "Mi sono trovata benissimo con il Piano Pet Friendly, ambiente accogliente.",
+      "planType": "normale",
+      "piano": "Piano Pet Friendly",
+      "img": "https://avatar.vercel.sh/elenagallo"
+    },
+    {
+      "name": "Francesco Greco",
+      "username": "@francescogreco",
+      "body": "Il Piano Family Day ha reso la nostra giornata in spiaggia speciale.",
+      "planType": "premium",
+      "piano": "Piano Family Day",
+      "img": "https://avatar.vercel.sh/francescogreco"
+    },
+    {
+      "name": "Sara Bruno",
+      "username": "@sarabruno",
+      "body": "Consiglio il Piano Copple Day per una fuga romantica indimenticabile.",
+      "planType": "normale",
+      "piano": "Piano Copple Day",
+      "img": "https://avatar.vercel.sh/sarabruno"
+    },
+    {
+      "name": "Simone Vitale",
+      "username": "@simonevitale",
+      "body": "Il Piano Single Relax aiuta a rigenerarsi completamente.",
+      "planType": "premium",
+      "piano": "Piano Single Relax",
+      "img": "https://avatar.vercel.sh/simonevitale"
+    },
+    {
+      "name": "Alice Romano",
+      "username": "@aliceromano",
+      "body": "Bellissima esperienza con il Piano Pet Friendly, super consigliato.",
+      "planType": "normale",
+      "piano": "Piano Pet Friendly",
+      "img": "https://avatar.vercel.sh/aliceromano"
+    },
+    {
+      "name": "Federico Leone",
+      "username": "@federicoleone",
+      "body": "Il Piano Family Day è molto ben organizzato e sicuro.",
+      "planType": "premium",
+      "piano": "Piano Family Day",
+      "img": "https://avatar.vercel.sh/federicoleone"
+    },
+    {
+      "name": "Chiara Greco",
+      "username": "@chiaragreco",
+      "body": "Il Piano Copple Day ha reso la nostra giornata speciale e rilassante.",
+      "planType": "normale",
+      "piano": "Piano Copple Day",
+      "img": "https://avatar.vercel.sh/chiaragreco"
+    },
+    {
+      "name": "Lorenzo Fabbri",
+      "username": "@lorenzofabbri",
+      "body": "Il Piano Single Relax è il luogo perfetto per ricaricare le energie.",
+      "planType": "premium",
+      "piano": "Piano Single Relax",
+      "img": "https://avatar.vercel.sh/lorenzofabbri"
+    },
+    {
+      "name": "Ilaria Villa",
+      "username": "@ilariavilla",
+      "body": "Il Piano Pet Friendly è amato da tutta la famiglia, anche dai nostri amici a 4 zampe!",
+      "planType": "normale",
+      "piano": "Piano Pet Friendly",
+      "img": "https://avatar.vercel.sh/ilariavilla"
+    },
+    {
+      "name": "Giulia Neri",
+      "username": "@giulianeri",
+      "body": "Il Piano Pet Friendly offre un’accoglienza speciale per gli animali.",
+      "planType": "normale",
+      "piano": "Piano Pet Friendly",
+      "img": "https://avatar.vercel.sh/giulianeri"
+    },
+    {
+      "name": "Alessandro Greco",
+      "username": "@alessandrogreco",
+      "body": "Il Piano Family Day è perfetto per tutta la famiglia, grande organizzazione.",
+      "planType": "premium",
+      "piano": "Piano Family Day",
+      "img": "https://avatar.vercel.sh/alessandrogreco"
+    },
+    {
+      "name": "Martina Russo",
+      "username": "@martinarusso",
+      "body": "Il Piano Copple Day è un’esperienza romantica da provare assolutamente.",
+      "planType": "normale",
+      "piano": "Piano Copple Day",
+      "img": "https://avatar.vercel.sh/martinarusso"
+    },
+    {
+      "name": "Davide Bianchi",
+      "username": "@davidebianchi",
+      "body": "Il Piano Family Day offre tante attività per i più piccoli, davvero top!",
+      "planType": "premium",
+      "piano": "Piano Family Day",
+      "img": "https://avatar.vercel.sh/davidebianchi"
+    },
+    {
+      "name": "Francesca Gallo",
+      "username": "@francescagallo",
+      "body": "Il Piano Copple Day è un momento magico da condividere con la persona amata.",
+      "planType": "normale",
+      "piano": "Piano Copple Day",
+      "img": "https://avatar.vercel.sh/francescagallo"
+    },
+    {
+      "name": "Simone Conti",
+      "username": "@simoneconti",
+      "body": "Il Piano Single Relax è perfetto per chi cerca tranquillità e pace.",
+      "planType": "premium",
+      "piano": "Piano Single Relax",
+      "img": "https://avatar.vercel.sh/simoneconti"
+    },
+    {
+      "name": "Elisa Bruno",
+      "username": "@elisabruno",
+      "body": "Bellissima esperienza con il Piano Pet Friendly, consigliatissimo.",
+      "planType": "normale",
+      "piano": "Piano Pet Friendly",
+      "img": "https://avatar.vercel.sh/elisabruno"
+    },
+    {
+      "name": "Mattia Russo",
+      "username": "@mattiarusso",
+      "body": "Il Piano Family Day ha reso le nostre vacanze perfette per la famiglia.",
+      "planType": "premium",
+      "piano": "Piano Family Day",
+      "img": "https://avatar.vercel.sh/mattiarusso"
+    },
+    {
+      "name": "Veronica Ferri",
+      "username": "@veronicaferri",
+      "body": "Il Piano Copple Day è stato romantico e rilassante, da rifare!",
+      "planType": "normale",
+      "piano": "Piano Copple Day",
+      "img": "https://avatar.vercel.sh/veronicaferri"
+    },
+    {
+      "name": "Roberto Leone",
+      "username": "@robertoleone",
+      "body": "Il Piano Single Relax è il miglior modo per prendersi cura di sé.",
+      "planType": "premium",
+      "piano": "Piano Single Relax",
+      "img": "https://avatar.vercel.sh/robertoleone"
+    },
+    {
+      "name": "Simona Costa",
+      "username": "@simonacosta",
+      "body": "Il Piano Pet Friendly è molto accogliente per le famiglie con animali.",
+      "planType": "normale",
+      "piano": "Piano Pet Friendly",
+      "img": "https://avatar.vercel.sh/simonacosta"
+    },
+    {
+      "name": "Enrico Riva",
+      "username": "@enricoriva",
+      "body": "Il Piano Family Day è organizzato alla perfezione per i più piccoli.",
+      "planType": "premium",
+      "piano": "Piano Family Day",
+      "img": "https://avatar.vercel.sh/enricoriva"
+    }
+]
+  

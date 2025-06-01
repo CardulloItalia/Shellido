@@ -1,4 +1,5 @@
 import Navbar from "@/components/navbar";
+import Comments from "@/sectionPage/comments";
 import MainContent from "@/sectionPage/mainContent";
 
 
@@ -22,7 +23,9 @@ export default function Home() {
     
     <section id="services"></section>
     <section id="rates"></section>
-    <section id="comments"></section>
+    <section id="comments">
+      <Comments/>
+    </section>
     <section id="location"></section>
 
     {/* here footer */}
