@@ -33,13 +33,10 @@ export default function Comments() {
     <div>
       <h1 className="text-2xl font-bold text-center mb-5">Cosa dicono di noi</h1>
     <div className="relative flex w-full flex-col items-center justify-center overflow-hidden">
-      <Marquee repeat={5} pauseOnHover className="[--duration:100s]">
+      <Marquee repeat={5} pauseOnHover className="[--duration:300s]">
         <Designcomments />
       </Marquee>
-      <Marquee repeat={5} pauseOnHover className="[--duration:100s]">
-        <Designcomments />
-      </Marquee>
-      <Marquee repeat={5} pauseOnHover className="[--duration:100s]">
+      <Marquee repeat={5} pauseOnHover className="[--duration:200s]">
         <Designcomments />
       </Marquee>
     </div>
