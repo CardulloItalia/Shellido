@@ -1,5 +1,6 @@
 import Navbar from "@/components/navbar";
 import Comments from "@/sectionPage/comments";
+import DoveSiamo from "@/sectionPage/doveSiamo";
 import MainContent from "@/sectionPage/mainContent";
 import ServiceLido from "@/sectionPage/serviceLido";
 import Tariffe from "@/sectionPage/tariffe";
@@ -10,8 +11,6 @@ export default function Home() {
    <div className="w-screen h-screen p-10 m-0">
     {/* here navbar */}
     <Navbar/>
-
-
     {/* here main content :
       - photo to beach 
       - the service to lido
@@ -33,12 +32,20 @@ export default function Home() {
     <section id="comments">
       <Comments/>
     </section>
-    <section id="location"></section>
+    <section id="location">
+      <DoveSiamo/>
+    </section>
 
     {/* here footer */}
     <footer>
       <h1>ShellLido</h1>
       <p>Copyright 2025 ShellLido</p>
+
+      <div>
+        <p>Nome Utente, 12345-Italia</p>
+        <p>+39 234586937586</p>
+        <p>Nomeutente@gmail.com</p>
+      </div>
     </footer>
    </div>
   );
