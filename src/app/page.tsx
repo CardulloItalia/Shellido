@@ -1,4 +1,6 @@
 import Navbar from "@/components/navbar";
+import MainContent from "@/sectionPage/mainContent";
+
 
 export default function Home() {
   return (
@@ -14,7 +16,10 @@ export default function Home() {
       - comments from the customers
       - where are we located
     */}
-    <section id="main-content"></section>
+    <section id="main-content">
+      <MainContent/> 
+    </section>
+    
     <section id="services"></section>
     <section id="rates"></section>
     <section id="comments"></section>
