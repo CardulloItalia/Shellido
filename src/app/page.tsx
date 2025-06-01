@@ -2,6 +2,7 @@ import Navbar from "@/components/navbar";
 import Comments from "@/sectionPage/comments";
 import MainContent from "@/sectionPage/mainContent";
 import ServiceLido from "@/sectionPage/serviceLido";
+import Tariffe from "@/sectionPage/tariffe";
 
 
 export default function Home() {
@@ -26,7 +27,9 @@ export default function Home() {
       <ServiceLido/>
     </section>
     
-    <section id="rates"></section>
+    <section id="rates">
+      <Tariffe/>
+    </section>
     <section id="comments">
       <Comments/>
     </section>
