@@ -1,0 +1,140 @@
+{
+    "giornalieri": [
+      {
+        "id":1,
+        "titolo": "Piano Single Relax",
+        "prezzo": "€30/Giorno",
+        "caratteristiche": [
+          "1 Ombrellone",
+          "1 Lettini",
+          "Accesso giornaliero 08:00 - 19:00",
+          "+€5 se si porta un animale (area pet + kit benvenuto)"
+        ]
+      },
+      {
+        "id":2,
+        "titolo": "Piano Copple Day",
+        "prezzo": "€40/Giorno",
+        "caratteristiche": [
+          "1 Ombrellone",
+          "2 Lettini + 1 sedia",
+          "Bagno famiglia incluso",
+          "+€5 per animale domestico (area ombreggiata + ciotola)",
+          "Animazione bambini disponibile nei weekend"
+        ]
+      },
+      {
+        "id":3,
+        "titolo": "Piano Pet Friendly",
+        "prezzo": "€45/Giorno",
+        "caratteristiche": [
+          "1 Ombrellone",
+          "2 Lettini",
+          "Area dedicata con ombre e acqua per animali",
+          "Kit benvenuto: tappetino, ciotola, sacchetti",
+          "Educatore cinofilo su prenotazione",
+          "Spazio gioco"
+        ]
+      },
+      {
+        "id":4,
+        "titolo": "Piano Family Day",
+        "prezzo": "€70/Giorno",
+        "caratteristiche": [
+          "1 Ombrellone in prima fila fronte mare",
+          "2 Lettini + 1 sedia",
+          "2 Adulti + fino a 2 bambini",
+          "Cabina privata familiare",
+          "Bagno famiglia incluso",
+          "Accesso area giochi bimbi + giochi gonfiabili",
+          "Animazione bambini disponibile nei weekend",
+          "Animali ammessi senza supplemento",
+          "Area ombreggiata per pet + ciotola + tappetino",
+          "2 bottiglie d'acqua + 2 succhi bimbi inclusi",
+          "Wi-Fi incluso"
+        ]
+      }
+    ],
+    "premium": [
+      {
+        "id":1,
+        "titolo": "Piano Single Relax",
+        "prezzo": "€2.200/stagione",
+        "periodo": "Dal 1° giugno al 31 agosto",
+        "caratteristiche": [
+          "Postazione Riservata",
+          "Ombrellone in zona relax adulti con vista mare garantita",
+          "1 lettini deluxe + tavolino basso + cabina privata",
+          "Wi-Fi riservato + presa USB",
+          "Accesso area massaggi + relax lounge",
+          "1 drink ogni weekend (alcolico o analcolico)",
+          "Animali inclusi senza supplemento",
+          "Tappetino, ciotola, zona ombreggiata dedicata",
+          "Ombrellone riservato per l'intera stagione",
+          "Sconto 20% su bar, ristorante e pacchetti benessere"
+        ]
+      },
+      {
+        "id":2,
+        "titolo": "Piano Coppia Relax",
+        "prezzo": "€2.200/stagione",
+        "periodo": "Dal 1° giugno al 31 agosto",
+        "caratteristiche": [
+          "Postazione Riservata",
+          "Ombrellone in zona relax adulti con vista mare garantita",
+          "2 lettini deluxe + tavolino basso + cabina privata",
+          "Wi-Fi riservato + presa USB",
+          "Accesso area massaggi + relax lounge",
+          "2 drink ogni weekend (alcolico o analcolico)",
+          "Animali inclusi senza supplemento",
+          "Tappetino, ciotola, zona ombreggiata dedicata",
+          "Ombrellone riservato per l'intera stagione",
+          "Sconto 20% su bar, ristorante e pacchetti benessere"
+        ]
+      },
+      {
+        "id":3,
+        "titolo": "Piano Pet Friendly",
+        "prezzo": "€1.200/stagione",
+        "periodo": "Dal 1° giugno al 31 agosto",
+        "caratteristiche": [
+          "Postazione Riservata",
+          "Ombrellone + lettino in area pet luxury tranquilla e recintata",
+          "Postazione garantita tutta la stagione, in zona ombreggiata",
+          "Tappetino Fresco Shell4U Pet, sostituibile ogni settimana",
+          "Ciotola personale (acqua sempre disponibile)",
+          "Fontanella ad uso esclusivo",
+          "Ombreggiatura naturale + area sabbia/erba",
+          "4 Lavaggi inclusi presso servizio toelettatura convenzionato",
+          "Accesso illimitato a docce dedicate",
+          "Kit mensile: snack naturali + accessori utili (sacchetti, spray, giochi)",
+          "1 check comportamentale gratuito con educatore cinofilo",
+          "Accesso eventi 'Dog Day' con giochi in acqua, agility soft e premi",
+          "Spazio relax per accompagnatore",
+          "Educatore disponibile 1 volta a settimana su prenotazione",
+          "Welcome box Shell4U Pet (telo, borraccia, bandana)",
+          "Sconto 20% su servizi grooming, dog-sitting e bar"
+        ]
+      },
+      {
+        "id":4,
+        "titolo": "Piano Family Shell",
+        "prezzo": "€3.000/stagione",
+        "periodo": "Dal 1° giugno al 31 agosto",
+        "caratteristiche": [
+          "Postazione Riservata",
+          "Ombrellone fronte mare garantito per tutta la stagione",
+          "2 lettini imbottiti + 1 sedia + tavolino + cabina privata",
+          "Accesso illimitato all'area giochi e gonfiabili",
+          "Animazione bambini ogni weekend + attività settimanali",
+          "Bagno famiglia dedicato + doccia calda privata",
+          "Kit mensile per bambini: secchiello, giochi da spiaggia, merenda",
+          "Animali inclusi senza supplemento",
+          "Tappetino, ciotola, zona ombreggiata dedicata",
+          "8 drink per adulti + 8 succhi per bambini al mese",
+          "Sconto 20% su ristorante, bar, massaggi e eventi Shell4U"
+        ]
+      }
+    ]
+  }
+  

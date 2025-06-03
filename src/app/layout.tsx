@@ -1,4 +1,8 @@
+import { Afacad } from 'next/font/google';
+
 import "./globals.css";
+
+const afacad = Afacad({ subsets: ['latin'] })
 
 
 export default function RootLayout({
@@ -8,7 +12,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>
+      <body className={afacad.className}>
         {children}
       </body>
     </html>
