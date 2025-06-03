@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "title": "Lettini e Sdraio",
+      "description": "Rilassati al sole con i nostri lettini fronte mare, perfetti per il tuo comfort quotidiano."
+    },
+    {
+      "id": 2,
+      "title": "Parcheggio Interno",
+      "description": "Parcheggia in totale sicurezza con il nostro spazio interno riservato ai clienti."
+    },
+    {
+      "id": 3,
+      "title": "Bar / Ristorante Shell",
+      "description": "Gusta piatti freschi e drink rinfrescanti direttamente sulla spiaggia."
+    },
+    {
+      "id": 4,
+      "title": "Cabine",
+      "description": "Cabine spaziose e private per cambiarti in totale comodità."
+    },
+    {
+      "id": 5,
+      "title": "Wifi – Gratuito",
+      "description": "Resta connesso anche in vacanza con la nostra rete wifi gratuita e veloce."
+    },
+    {
+      "id": 6,
+      "title": "Impianti Sportivi",
+      "description": "Divertiti e tieniti in forma con i nostri campi da beach volley e calcetto."
+    },
+    {
+      "id": 7,
+      "title": "Baby Time Shell",
+      "description": "Un’area giochi sicura e attrezzata dedicata ai più piccoli."
+    },
+    {
+      "id": 8,
+      "title": "Musica Time",
+      "description": "Goditi l’atmosfera con la nostra selezione musicale live e DJ set al tramonto."
+    },
+    {
+      "id": 9,
+      "title": "Pet Beach",
+      "description": "Uno spazio dedicato ai tuoi amici a quattro zampe, per una vacanza insieme."
+    }
+]
